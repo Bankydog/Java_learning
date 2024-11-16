@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex7_operator {
+public class ex07_operator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

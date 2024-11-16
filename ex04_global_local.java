@@ -1,4 +1,4 @@
-public class ex4_global_local {
+public class ex04_global_local {
 
     public static void main(String[] args) {
         int a = 12;
