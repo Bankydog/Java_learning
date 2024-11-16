@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.time.LocalDate;
 
-public class ex6_input {
+public class ex06_input {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int currentYear = LocalDate.now().getYear();

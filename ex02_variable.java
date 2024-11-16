@@ -1,4 +1,4 @@
-public class ex2_variable {
+public class ex02_variable {
     public static void main(String[] args) {
         String name = "Bank ";
         System.out.println(name);

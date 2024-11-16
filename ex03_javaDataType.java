@@ -1,4 +1,4 @@
-public class ex3_javaDataType {
+public class ex03_javaDataType {
     public static void main(String[] args) {
         
     }

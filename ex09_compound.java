@@ -1,4 +1,4 @@
-public class ex9_compound {
+public class ex09_compound {
     public static void main(String[] args) {
         int x= 10, y = 5;
         x += y;

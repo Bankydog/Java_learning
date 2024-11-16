@@ -1,4 +1,4 @@
-public class ex5_type_casting {
+public class ex05_type_casting {
     public static void main(String[] args) {
     //Convert from high to low
         int numInt = 10;
